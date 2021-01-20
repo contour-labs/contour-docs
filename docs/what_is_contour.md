@@ -45,27 +45,12 @@ Because Contour treats **documentation like code**, developers can read, write, 
 * Review your documentation alongside your code.
 
 \
- ![PR Bot](https://i.imgur.com/Dg4JUIX.png "left-50")    ![Multiple branches](https://i.imgur.com/s8G3BjB.png "left-50")
+\
+ ![GitHub PR Bot](https://i.imgur.com/CwBq6Tq.png)
 
 \
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+ ![GitHub Review](https://i.imgur.com/KAUoyn9.png)
+
 \
 \
 
