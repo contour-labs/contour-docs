@@ -1,29 +1,18 @@
-# What is Contour
+# How it Works
 
 
 ---
 
 \
-**Contour** makes it easy for developers to write documentation that **always stays up to date**.
+To start using Contour on your repository, you just need to follow 3 simple steps.
 
 \
-Because Contour treats **documentation like code**, developers can read, write, and merge docs all from your **GitHub Repository.** This means that updates to documentation can be **fast** and **seamlessly integrated** into developers’ existing workflows.
+## 1. Install our GitHub App
+
+<https://github.com/apps/contour-documentation>
 
 \
-\
-
----
-
-\
-## With Contour, you can:
-
-### Just write
-
-* Write clean, readable documentation using our WYSIWYG editor.
-* Use `/` slash commands to write different types of content!
-
-\
- ![Slash commands](https://i.imgur.com/iEVzXkn.png "left-50")
+ ![Contour Github App](https://i.imgur.com/IwkN7qb.png "left-50")
 
 \
 \
@@ -39,17 +28,24 @@ Because Contour treats **documentation like code**, developers can read, write, 
 \
 \
 \
-### Keep knowledge centralized
-
-* Stay in sync with GitHub.
-* Review your documentation alongside your code.
-
 \
+## 2. Create a new Pull Request
+
+Once created, Contour will automatically create and deploy a documentation site for your repository at `docs.contour.so/owner/repo`
+
+Our PR bot will also provide a link to your documentation so you can get to your docs in a single click!
+
 \
  ![GitHub PR Bot](https://i.imgur.com/CwBq6Tq.png)
 
+## 3. Write, Save, and Merge!
+
+Use our WYSIWYG editor to write, save, and merge documentation. Contour stores your documentation as markdown files inside of your repo’s `docs/` directory.
+
 \
- ![GitHub Review](https://i.imgur.com/KAUoyn9.png)
+Click the green “Save” button in the bottom right to save your draft.
+
+Click the purple “Merge” button to merge your docs into your repo!
 
 \
 \
@@ -59,8 +55,4 @@ Because Contour treats **documentation like code**, developers can read, write, 
 \
 ## Any questions?
 
-Check out our FAQ!
-
-\
-\
-\
+Check out our FAQ page!
