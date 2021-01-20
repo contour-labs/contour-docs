@@ -55,4 +55,4 @@ Click the purple “Merge” button to merge your docs into your repo!
 \
 ## Any questions?
 
-Check out our FAQ page!
+Check out our [FAQ](https://docs.contour.so/contour-labs/contour-docs/faq.md) page!
