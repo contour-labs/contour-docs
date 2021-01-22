@@ -1,3 +1,7 @@
+---
+lastAuthor: Leo-Ryu
+lastEdited: 1611279387780
+---
 # How it Works
 
 
@@ -6,7 +10,6 @@
 \
 To start using Contour on your repository, you just need to follow 3 simple steps.
 
-\
 ## 1. Install our GitHub App
 
 <https://github.com/apps/contour-documentation>
