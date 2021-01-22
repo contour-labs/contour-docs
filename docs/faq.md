@@ -1,9 +1,12 @@
+---
+lastAuthor: Leo-Ryu
+lastEdited: 1611279411893
+---
 # FAQ
 
 
 ---
 
-\
 #### Who has access to my documentation on Contour?
 
 Contour inherits the access settings directly from your GitHub repository. If a member has read and write access in the corresponding repository, they will have the same level of access on Contour. If you have a private repository, no one will be able to see the documentation until they login as a collaborator on GitHub.
