@@ -1,6 +1,6 @@
 ---
-lastAuthor: sonny3690
-lastEdited: 1611529780114
+lastAuthor: Leo-Ryu
+lastEdited: 1611532393559
 ---
 # Changelog
 
@@ -36,7 +36,7 @@ Some notable changes:
 * **File System Tracking:** your Contour sidebars will sync with your docs file directory. What this means is that we will generate a sidebar that corresponds to your `docs` directory and any changes on either side will correspond to the other side.
 
 \
-A simple example is dragging a Document into a Folder. If you insert hi.md inside folder          hello, this change in the sidebars will show up on your merge request as well.
+A simple example is dragging a Document into a Folder. If you insert `hi.md` inside folder `hello/`, this change in the sidebars will show up on your merge request as well.
 
 \
 \
