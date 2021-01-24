@@ -1,6 +1,6 @@
 ---
 lastAuthor: Leo-Ryu
-lastEdited: 1611169173248
+lastEdited: 1611530167274
 ---
 # What is Contour
 
@@ -11,7 +11,9 @@ lastEdited: 1611169173248
 **Contour** makes it easy for developers to write documentation that **always stays up to date**.
 
 \
-Because Contour treats **documentation like code**, developers can read, write, and merge docs all from your **GitHub Repository.** This means that updates to documentation can be **fast** and **seamlessly integrated** into developers’ existing workflows.
+Because Contour treats **documentation like code**, developers can read, write, and merge docs all from your **GitHub Repository.**
+
+This means that updates to documentation can be **fast** and **seamlessly integrated** into developers’ existing workflows.
 
 \
 \
@@ -27,7 +29,7 @@ Because Contour treats **documentation like code**, developers can read, write, 
 * Use `/` slash commands to write different types of content!
 
 \
- ![Slash commands](https://i.imgur.com/iEVzXkn.png "left-50")
+![Slash commands](https://i.imgur.com/iEVzXkn.png "left-50")
 
 \
 \
@@ -50,9 +52,9 @@ Because Contour treats **documentation like code**, developers can read, write, 
 
   \
 
- ![GitHub PR Bot](https://i.imgur.com/CwBq6Tq.png)
+![GitHub PR Bot](https://i.imgur.com/CwBq6Tq.png)
 
- ![Docs Review](https://i.imgur.com/V0LLlhn.png)
+![Docs Review](https://i.imgur.com/V0LLlhn.png)
 
 \
 
