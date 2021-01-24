@@ -1,6 +1,6 @@
 ---
 lastAuthor: Leo-Ryu
-lastEdited: 1611530224944
+lastEdited: 1611531259752
 ---
 # How it Works
 
@@ -15,18 +15,8 @@ To start using Contour on your repository, you just need to follow 3 simple step
 To get a link to the installation page, send an email to leo@contour.so
 
 \
-![Contour Installation Page](https://i.imgur.com/GfPhH6n.png "left-50")
+![Contour Installation Page](https://i.imgur.com/GfPhH6n.png)
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 ## 2. Create a new Pull Request
 
 Once you make a PR, Contour will automatically create and deploy a documentation site for your repository at `docs.contour.so/owner/repo`
