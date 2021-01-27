@@ -1,6 +1,6 @@
 ---
-lastAuthor: Leo-Ryu
-lastEdited: 1611530270025
+lastAuthor: sonny3690
+lastEdited: 1611775042604
 ---
 # What is Contour
 
@@ -29,7 +29,7 @@ This means that updates to documentation can be **fast** and **seamlessly integr
 * Use `/` slash commands to write different types of content!
 
 \
-![Slash commands](https://i.imgur.com/iEVzXkn.png "left-50")
+![Slash commands](https://i.imgur.com/iEVzXkn.png)
 
 \
 \
