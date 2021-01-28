@@ -1,6 +1,6 @@
 ---
-lastAuthor: Leo-Ryu
-lastEdited: 1611532421237
+lastAuthor: sonny3690
+lastEdited: 1611826954235
 ---
 # Changelog
 
@@ -39,7 +39,10 @@ Some notable changes:
 A simple example is dragging a Document into a Folder. If you insert `hi.md` inside folder `hello/`, this change in the sidebars will show up on your Pull Request as well.
 
 \
-\
+## Why You’ll <3 Contour
+
+It’s a *beautiful* writing **experience** :)
+
 \
 
 ---
