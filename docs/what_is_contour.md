@@ -1,6 +1,6 @@
 ---
-lastAuthor: sonny3690
-lastEdited: 1611780556746
+lastAuthor: Leo-Ryu
+lastEdited: 1611880010109
 ---
 # What is Contour
 
@@ -8,14 +8,13 @@ lastEdited: 1611780556746
 ---
 
 \
-**Contour** makes it easy for developers to write documentation that **always stays up to date**.
+**Contour** makes it easy for developers to write documentation that **stays up to date**.
 
 \
 Because Contour treats **documentation like code**, developers can read, write, and merge docs all from your **GitHub Repository.**
 
 This means that updates to documentation can be **fast** and **seamlessly integrated** into developers’ existing workflows.
 
-\
 \
 
 ---
